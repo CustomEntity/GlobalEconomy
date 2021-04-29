@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker/3.12.0/b8ab4279d1c86b1b8d06c5c14b050a981a85eb33/checker-3.12.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-util/3.12.0/43d409abf5eb72c3d55e1877bbcedd16b66b6a8e/checker-util-3.12.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar" />
+        </processorPath>
+        <module name="GlobalEconomy.bukkit.main" />
+        <module name="GlobalEconomy.main" />
+        <module name="GlobalEconomy.api.main" />
+        <module name="GlobalEconomy.common.test" />
+        <module name="GlobalEconomy.test" />
+        <module name="GlobalEconomy.bukkit.test" />
+        <module name="GlobalEconomy.common.main" />
+        <module name="GlobalEconomy.api.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="bukkit.main" target="1.8" />
+      <module name="bukkit.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

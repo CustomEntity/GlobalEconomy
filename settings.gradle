@@ -1,0 +1,5 @@
+rootProject.name = 'GlobalEconomy'
+include ('common', 'api')
+include 'bukkit'
+include 'bukkit'
+
